@@ -2,7 +2,7 @@
 
 Course Form validation & HTML 5.
 
-Update: 30th of June - course 5 of 6 completed
+Update: 1st of July - Course completed
 
 Courses: 
 
